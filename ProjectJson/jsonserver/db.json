@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "TL",
+      "price": "1",
+      "status": false,
+      "image": ""
+    }
+  ]
+}
